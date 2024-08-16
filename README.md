@@ -8,13 +8,7 @@ This is a Node.js project.
 - npm 
 
 ### Installation
-
-1. Clone the repository:
-
-    git clone https://github.com/abhii08/Task2.git
-
-
-2. Install dependencies:
+1. Install dependencies:
     npm install
 
 ### Usage
